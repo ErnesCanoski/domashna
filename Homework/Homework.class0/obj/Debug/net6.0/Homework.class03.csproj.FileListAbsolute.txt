@@ -1,0 +1,15 @@
+C:\Users\ernes\OneDrive\Desktop\Homework\Homework.class0\obj\Debug\net6.0\Homework.class03.csproj.AssemblyReference.cache
+C:\Users\ernes\OneDrive\Desktop\Homework\Homework.class0\obj\Debug\net6.0\Homework.class03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernes\OneDrive\Desktop\Homework\Homework.class0\obj\Debug\net6.0\Homework.class03.AssemblyInfoInputs.cache
+C:\Users\ernes\OneDrive\Desktop\Homework\Homework.class0\obj\Debug\net6.0\Homework.class03.AssemblyInfo.cs
+C:\Users\ernes\OneDrive\Desktop\Homework\Homework.class0\obj\Debug\net6.0\Homework.class03.csproj.CoreCompileInputs.cache
+C:\Users\ernes\OneDrive\Desktop\Homework\Homework.class0\bin\Debug\net6.0\Homework.class03.exe
+C:\Users\ernes\OneDrive\Desktop\Homework\Homework.class0\bin\Debug\net6.0\Homework.class03.deps.json
+C:\Users\ernes\OneDrive\Desktop\Homework\Homework.class0\bin\Debug\net6.0\Homework.class03.runtimeconfig.json
+C:\Users\ernes\OneDrive\Desktop\Homework\Homework.class0\bin\Debug\net6.0\Homework.class03.dll
+C:\Users\ernes\OneDrive\Desktop\Homework\Homework.class0\bin\Debug\net6.0\Homework.class03.pdb
+C:\Users\ernes\OneDrive\Desktop\Homework\Homework.class0\obj\Debug\net6.0\Homework.class03.dll
+C:\Users\ernes\OneDrive\Desktop\Homework\Homework.class0\obj\Debug\net6.0\refint\Homework.class03.dll
+C:\Users\ernes\OneDrive\Desktop\Homework\Homework.class0\obj\Debug\net6.0\Homework.class03.pdb
+C:\Users\ernes\OneDrive\Desktop\Homework\Homework.class0\obj\Debug\net6.0\Homework.class03.genruntimeconfig.cache
+C:\Users\ernes\OneDrive\Desktop\Homework\Homework.class0\obj\Debug\net6.0\ref\Homework.class03.dll
